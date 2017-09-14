@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport
+  AutoSync="true"
+  LastImport="2017-09-13T18:44:46.6201826-07:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/sgarcia/Desktop/dualboundimportB/dualboundimportB.flprj"
+      AbsoluteSource="file:///C:/Users/sgarcia/Desktop/dualboundimportB/dualboundimportB.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../dualboundimportB/Content/Topic B.htm"
+      AbsoluteSource="file:///C:/Users/sgarcia/Desktop/dualboundimportB/Content/Topic B.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Topic B.htm"
+      TimeStamp="9/13/2017 6:43:53 PM" />
+  </GeneratedFiles>
+</CatapultProjectImport>
